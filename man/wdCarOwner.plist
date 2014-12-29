@@ -11,7 +11,7 @@
   <key>kind</key> 
   <string>software-package</string> 
   <key>url</key> 
-  <string>http://218.249.201.34:9090/zxt/wsm/driver.ipa</string> 
+  <string>http://wd.wiselink.net.cn/zxt/wsm/wsm.ipa</string> 
   </dict>
 <dict>
   <key>kind</key> 
@@ -19,7 +19,7 @@
   <key>needs-shine</key> 
   <true /> 
   <key>url</key> 
-  <string>http://218.249.201.34:9090/zxt/wsm/2.png</string> 
+  <string>http://wd.wiselink.net.cn/zxt/wsm/2.png</string> 
   </dict>
 <dict>
   <key>kind</key> 
@@ -27,7 +27,7 @@
   <key>needs-shine</key> 
   <true /> 
   <key>url</key> 
-  <string>http://218.249.201.34:9090/zxt/wsm/1.png</string> 
+  <string>http://wd.wiselink.net.cn/zxt/wsm/1.png</string> 
   </dict>
   </array>
   <key>metadata</key> 
@@ -39,9 +39,9 @@
   <key>kind</key> 
   <string>software</string> 
   <key>subtitle</key> 
-  <string>MAN车主端5.1</string> 
+  <string>车主端5.1</string> 
   <key>title</key> 
-  <string>MAN车主端5.1</string> 
+  <string>车主端5.1</string> 
   </dict>
   </dict>
   </array>
