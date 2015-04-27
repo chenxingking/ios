@@ -33,11 +33,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>subtitle</key>
-				<string>车联网系统v5.12</string>
+				<string>车联网系统v5.13</string>
 				<key>title</key>
-				<string>车联网系统v5.12</string>
+				<string>车联网系统v5.13</string>
 				<key>bundle-version</key>
-				<string>5.12</string>
+				<string>5.13</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
