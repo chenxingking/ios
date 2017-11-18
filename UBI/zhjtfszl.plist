@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wsm1.wiselink.net.cn/zhjtfszl/2.png</string>
+					<string>http://wsm1.wiselink.net.cn/yycx/yycx120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wsm1.wiselink.net.cn/zhjtfszl/2.png</string>
+					<string>http://wsm1.wiselink.net.cn/yycx/yycx120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>subtitle</key>
-				<string>EV出行</string>
+				<string>宜宜出行</string>
 				<key>title</key>
-				<string>EV出行</string>
+				<string>宜宜出行</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.wiselink.zhongHaiChuXingEnterprise</string>
+				<string>com.hengLin.yiyiChuXingEnterprise</string>
 			</dict>
 		</dict>
 	</array>
