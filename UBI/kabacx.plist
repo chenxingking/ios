@@ -41,7 +41,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.wiselink.kaBaChuXingEnterprise</string>
+				<string>com.wiselink.kaBaEnterprise</string>
 			</dict>
 		</dict>
 	</array>
