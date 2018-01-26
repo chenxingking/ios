@@ -16,32 +16,26 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
 					<key>url</key>
 					<string>http://wsm1.wiselink.net.cn/zhjt_fszl/2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
 					<key>url</key>
 					<string>http://wsm1.wiselink.net.cn/zhjt_fszl/2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>subtitle</key>
-				<string>EV出行</string>
-				<key>title</key>
-				<string>EV出行</string>
+				<key>bundle-identifier</key>
+				<string>com.wiselink.zhongHaiChuXingEnterprise</string>
 				<key>bundle-version</key>
 				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>bundle-identifier</key>
-				<string>com.wiselink.zhongHaiChuXingEnterprise</string>
+				<key>title</key>
+				<string>EV出行</string>
 			</dict>
 		</dict>
 	</array>
