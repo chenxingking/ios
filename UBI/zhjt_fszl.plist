@@ -37,7 +37,7 @@
 				<key>title</key>
 				<string>EV出行</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
