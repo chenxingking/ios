@@ -37,7 +37,7 @@
 				<key>title</key>
 				<string>K71-安装检测工具</string>
 				<key>bundle-version</key>
-				<string></string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
