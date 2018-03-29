@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>subtitle</key>
-				<string>K51-故障排查工具</string>
+				<string>故障排查工具</string>
 				<key>title</key>
-				<string>K51-故障排查工具</string>
+				<string>故障排查工具</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>

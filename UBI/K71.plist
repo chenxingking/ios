@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>subtitle</key>
-				<string>K71-安装检测工具</string>
+				<string>安装检测工具</string>
 				<key>title</key>
-				<string>K71-安装检测工具</string>
+				<string>安装检测工具</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
