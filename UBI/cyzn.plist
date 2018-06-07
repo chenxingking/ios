@@ -37,7 +37,7 @@
 				<key>title</key>
 				<string>车音智能</string>
 				<key>bundle-version</key>
-				<string></string>
+				<string>1.0.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
